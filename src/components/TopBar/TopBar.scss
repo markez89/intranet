@@ -1,0 +1,24 @@
+.topbar{
+
+    font-size: 16px;
+
+    .MuiAppBar-colorPrimary{
+        background-color: #3b3b3b;
+    }
+    .MuiPaper-elevation4{
+        box-shadow: none !important;
+    }
+
+    p{
+        margin-right: 80px;
+    }
+    .avatar{
+        margin-right: 10px;
+    }
+
+    .MuiSvgIcon-root {
+        font-size: 15px;
+        padding:8px;
+    }
+
+}
